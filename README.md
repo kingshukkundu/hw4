@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your Flask API deployment on **Vercel**.
-
----
-
 # 📌 County Data API
 
 This is a **Flask-based API** that provides health ranking data based on **ZIP code and measure names** from an SQLite database. It is deployed using **Vercel**.
